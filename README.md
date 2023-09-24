@@ -10,14 +10,17 @@ If you're looking for an Android Engineer with a strong Kotlin background and a 
 
 📈 my github stats :
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rasyidni&show_icons=true&theme=gotham" alt="rasyidni" />
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=rasyidni&show_icons=true&theme=gotham" alt="rasyidni" />
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/rasyidni/github-stats">
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/rasyidni/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rasyidni/github-stats/blob/master/generated/languages.svg)
 
 </a>
+
+</p>
 
 
 <!--
