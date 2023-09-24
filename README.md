@@ -8,10 +8,20 @@ As a team player, I'm comfortable collaborating with other developers, designers
 
 If you're looking for an Android Engineer with a strong Kotlin background and a proven track record of delivering successful projects, I'd be happy to discuss how I can contribute to your team or organization. Feel free to check out my portfolio and reach out to me with any questions or opportunities.
 
-📈 my github stats :
+<h2 align="center">📈 my github stats :</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=rasyidni&theme=react&border=61dafb&hide_border=true" alt="rasyidni" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=rasyidni&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=rasyidni&show_icons=true&theme=gotham" alt="rasyidni" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasyidni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
